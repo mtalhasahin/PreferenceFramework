@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Preference Framework</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tercih">Tercihler</string>
+    <string name="ayarlar_menu">Ayarlar</string>
+    <string name="otomatik_guncelle_title">Otomatik Guncelle</string>
+    <string name="finans_birimi_title">Finans Birimi</string>
+    <string name="finans_birimi_summary">Takip etmek istediğiniz finans birimi</string>
+    <string name="finans_birimi_dialog_title">Finans Birimi Seçin</string>
+    <string name="uyarma_yuzdesi_title">Uyarma Yüzdesi</string>
+    <string name="uyarma_yuzdesi_summary">Yüzde değişim oranı</string>
+</resources>
